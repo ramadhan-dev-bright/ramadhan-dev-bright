@@ -1,93 +1,64 @@
-# 👋 Hello, I'm Ramadhan!
+# 👋 Hello, I'm **Ramadhan**
+Tech enthusiast | Self–taught developer | Always learning 🚀  
 
-🚀 **Mobile-First Web Developer** | 📱 **Acode + Termux Enthusiast**  
-✨ **Building professional websites directly from Android devices**
-
----
-
-## 🛠️ Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+Saya suka banget dunia teknologi, coding, dan membangun proyek kecil secara mandiri.  
+Fokus saya sekarang adalah meningkatkan skill dan membuat portofolio yang jelas dan rapi.
 
 ---
 
-## 📊 Deep GitHub Analysis
+## 🚀 Tech Stack
+**Languages:**  
+- JavaScript  
+- Python  
+- HTML / CSS  
 
-<div align="center">
-
-### 🔥 **Overall Performance**
-![Stats](https://github-readme-stats.vercel.app/api?username=ramadhan-dev-bright&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-### 🧠 **Language Mastery**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramadhan-dev-bright&layout=compact&theme=radical&hide_border=true)
-
-### ⚡ **Contribution Activity**
-![Streak](https://streak-stats.demolab.com/?user=ramadhan-dev-bright&theme=radical&hide_border=true)
-
----
-
-### 🚀 **Activity Insights**
-| Metric | Status |
-|--------|--------|
-| 🟢 *Code Frequency* | Konsisten, terutama HTML/CSS/JS |
-| 📌 *Focus Area* | Frontend & Mobile Web Development |
-| 📈 *Growth Indicator* | Stable, cenderung naik |
-| 🔧 *Most Used Tools* | Acode, Termux, GitHub |
+**Tools & Platforms:**  
+- Git & GitHub  
+- GitLab  
+- VS Code  
+- Android
 
 ---
 
-### 🧩 Summary
-> **Ramadhan shows strong consistency in frontend development**, especially in mobile-first coding.  
-> Frequent commits + diverse languages indicate solid learning progression.  
-> The activity streak shows you're actively improving and experimenting — great signal for recruiters.
+## 📊 GitHub Analytics (NO ERROR VERSION)
 
-</div>
+### 🔥 GitHub Stats  
+![GitHub Stats](https://github-readme-stats-mu-coral.vercel.app/api?username=ramadhan-dev-bright&show_icons=true&theme=tokyonight)
 
----
+### 🧠 Most Used Languages  
+![Top Languages](https://github-readme-stats-mu-coral.vercel.app/api/top-langs/?username=ramadhan-dev-bright&layout=compact&theme=tokyonight)
 
-## 🎯 Featured Projects
-
-### 🌓 [Portfolio Website](https://ramadhan-dev-bright.github.io)
-**Auto Dark/Light Mode • Responsive Design • Mobile-First**
-- Built with pure HTML/CSS/JS
-- System theme detection
-- Interactive skill cards
-
-### 📱 Mobile Dev Setup
-**Acode + Termux Workflow • GitHub Integration**
-- Complete mobile development environment
-- Professional workflow from Android
+### 🔥 Streak Stats  
+![GitHub Streak](https://streak-stats-gamma.vercel.app?user=ramadhan-dev-bright&theme=tokyonight)
 
 ---
 
-## 🌟 My Journey
+## 📂 Featured Projects
+### 🔹 **Portfolio Website**  
+Repository: *coming soon*
 
-> **"From zero to deployed — all coded from my Android device!"**
-
-- 📱 **100% Mobile Development** using Acode + Termux  
-- 🚀 **Professional Portfolio** deployed via GitHub Pages  
-- 🎨 **Modern UI/UX** with auto dark/light mode  
-- ⚡ **Responsive Design** optimized for all devices  
+### 🔹 **Simple JavaScript Apps**  
+Mini–projects untuk belajar dan eksperimen.
 
 ---
 
-## 📫 Let's Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ramadhan-dev-bright.github.io)
-[![Instagram](https://img.shields.io/badge/Instagram-@1my_dan-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/1my_dan)
-[![Email](https://img.shields.io/badge/Email-ramadhanmadhan560@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramadhanmadhan560@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ramadhan--dev--bright-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramadhan-dev-bright)
+## 🌱 Currently Learning
+- Git dan versioning lebih dalam  
+- Frontend (JavaScript & React dasar)  
+- Membiasakan workflow seperti developer beneran
 
 ---
 
-<div align="center">
+## 🤝 Connect With Me
+- GitHub: **@ramadhan-dev-bright**  
+- Telegram: **@yourusername** *(isi kalau mau)*
 
-### 💫 *"Code anywhere, create everywhere — powered by Android mobile development!"* 💫  
-⭐ **From my Android device to the world!** 📱🚀
+---
 
-</div>
+## ✨ About Me  
+Saya belajar teknologi secara otodidak dan sangat suka ngulik.  
+Walaupun latar belakang pendidikan SMA, saya percaya kemampuan berkembang itu dari **rasa penasaran + konsisten**.
+
+> "Consistency beats talent."
+
+Terima kasih sudah mampir di profil saya!
