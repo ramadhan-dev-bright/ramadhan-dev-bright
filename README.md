@@ -16,15 +16,35 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Deep GitHub Analysis
 
 <div align="center">
 
-![Ramadhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramadhan-dev-bright&show_icons=true&theme=radical&hide_border=true)
+### 🔥 **Overall Performance**
+![Stats](https://github-readme-stats.vercel.app/api?username=ramadhan-dev-bright&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramadhan-dev-bright&layout=compact&theme=radical&hide_border=true)
+### 🧠 **Language Mastery**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramadhan-dev-bright&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ramadhan-dev-bright&theme=radical&hide_border=true)
+### ⚡ **Contribution Activity**
+![Streak](https://streak-stats.demolab.com/?user=ramadhan-dev-bright&theme=radical&hide_border=true)
+
+---
+
+### 🚀 **Activity Insights**
+| Metric | Status |
+|--------|--------|
+| 🟢 *Code Frequency* | Konsisten, terutama HTML/CSS/JS |
+| 📌 *Focus Area* | Frontend & Mobile Web Development |
+| 📈 *Growth Indicator* | Stable, cenderung naik |
+| 🔧 *Most Used Tools* | Acode, Termux, GitHub |
+
+---
+
+### 🧩 Summary
+> **Ramadhan shows strong consistency in frontend development**, especially in mobile-first coding.  
+> Frequent commits + diverse languages indicate solid learning progression.  
+> The activity streak shows you're actively improving and experimenting — great signal for recruiters.
 
 </div>
 
@@ -47,12 +67,12 @@
 
 ## 🌟 My Journey
 
-> **"From zero to deployed - all coded from my Android device!"**
+> **"From zero to deployed — all coded from my Android device!"**
 
-- 📱 **100% Mobile Development** using Acode + Termux
+- 📱 **100% Mobile Development** using Acode + Termux  
 - 🚀 **Professional Portfolio** deployed via GitHub Pages  
-- 🎨 **Modern UI/UX** with auto dark/light mode
-- ⚡ **Responsive Design** optimized for all devices
+- 🎨 **Modern UI/UX** with auto dark/light mode  
+- ⚡ **Responsive Design** optimized for all devices  
 
 ---
 
@@ -65,16 +85,9 @@
 
 ---
 
-## 🎮 GitHub Games
-
-![Snake Game](https://github.com/ramadhan-dev-bright/ramadhan-dev-bright/blob/output/github-contribution-grid-snake.svg)
-
----
-
 <div align="center">
 
-### 💫 *"Code anywhere, create everywhere - powered by Android mobile development!"* 💫
-
+### 💫 *"Code anywhere, create everywhere — powered by Android mobile development!"* 💫  
 ⭐ **From my Android device to the world!** 📱🚀
 
 </div>
