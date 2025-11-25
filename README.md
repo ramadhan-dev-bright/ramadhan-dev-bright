@@ -18,10 +18,15 @@
 
 ## 📊 GitHub Analytics
 
-| ![Ramadhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramadhan-dev-bright&show_icons=true&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramadhan-dev-bright&layout=compact&theme=radical&hide_border=true) |
-|:---:|:---:|
+<div align="center">
+
+![Ramadhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramadhan-dev-bright&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramadhan-dev-bright&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ramadhan-dev-bright&theme=radical&hide_border=true)
+
+</div>
 
 ---
 
@@ -33,7 +38,7 @@
 - System theme detection
 - Interactive skill cards
 
-### 📱 [Mobile Dev Setup]()
+### 📱 Mobile Dev Setup
 **Acode + Termux Workflow • GitHub Integration**
 - Complete mobile development environment
 - Professional workflow from Android
