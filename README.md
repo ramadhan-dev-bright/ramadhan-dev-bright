@@ -1,42 +1,24 @@
-# Hi 👋, I'm Ramadhan
+# 💫 About Me:
+First Web Developer | Acode + Termux Enthusiast<br>Building professional websites directly from Android device<br>Portfolio website with auto dark/light mode<br>Mobile development workflow optimization<br>Advanced CSS & JavaScript<br>Responsive design best practices<br>GitHub automation<br>Open source mobile development tools<br>Web projects with modern UI/UX<br>Performance optimization for mobile<br>Code review & best practices<br>HTML/CSS/JavaScript basics<br>Coding with Acode & Termux<br>GitHub Pages deployment<br>Bisa develop website profesional hanya pakai HP!<br>Portfolio saya ada di: ramadhan-dev-bright.github.io
 
-### Mobile-Web Developer & Enthusiast
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramadhan-dev-bright&label=Profile views&color=0e75b6&style=flat" alt="ramadhan-dev-bright" /> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/1my_dan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramadhanmadhan560@gmail.com) 
 
-- 🔭 I'm currently working on **Membangun website dengan auto dark/light mode
-Mengembangkan workflow mobile development dengan Acode + Termux**
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ramadhan-dev-bright &theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ramadhan-dev-bright &theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramadhan-dev-bright &theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 🌱 I'm currently learning **Advanced CSS (Grid, Flexbox, Animations)
-JavaScript Modern (ES6+, DOM Manipulation)
-Responsive Web Design & Mobile Optimization**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ramadhan-dev-bright &theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 👯 I'm looking to collaborate on **Project web development yang responsive dan modern
-Open source projects related to mobile development
-UI/UX design implementation**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ramadhan-dev-bright &limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- 🤝 I'm looking for help with **Optimasi performance untuk mobile devices
-Best practices untuk GitHub workflow
-Code review dan feedback untuk project web**
+---
+[![](https://visitcount.itsvg.in/api?id=ramadhan-dev-bright &icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript basics
-Mobile development dengan Acode & Termux
-Responsive design dan dark/light mode implementation
-GitHub setup dan portfolio building**
-
-- 📫 How to reach me **ramadhanmadhan560@gmail.com**
-
-- ⚡ Fun fact **Dari nol sampai deploy website live, semua dikerjakan via HP Android tanpa laptop!
-Membuktikan bahwa coding bisa dilakukan dari mana saja dengan tools yang tepat.**
-
-- 👨‍💻 All of my projects are available at **[https://ramadhan-dev-bright.github.io](https://ramadhan-dev-bright.github.io)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/ramadhan-dev-bright" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ramadhan-dev-bright" height="30" width="40" /></a>
-<a href="https://instagram.com/1my_dan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1my_dan" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a></p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
