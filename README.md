@@ -1,26 +1,75 @@
-# 💫 About Me:
-First Web Developer | Acode + Termux Enthusiast<br>Building professional websites directly from Android device<br>Portfolio website with auto dark/light mode<br>Mobile development workflow optimization<br>Advanced CSS & JavaScript<br>Responsive design best practices<br>GitHub automation<br>Open source mobile development tools<br>Web projects with modern UI/UX<br>Performance optimization for mobile<br>Code review & best practices<br>HTML/CSS/JavaScript basics<br>Coding with Acode & Termux<br>GitHub Pages deployment<br>Bisa develop website profesional hanya pakai HP!<br>Portfolio saya ada di: ramadhan-dev-bright.github.io
+# 👋 Hello, I'm Ramadhan!
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/1my_dan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramadhanmadhan560@gmail.com) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ramadhan-dev-bright &theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ramadhan-dev-bright &theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramadhan-dev-bright &theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ramadhan-dev-bright &theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ramadhan-dev-bright &limit=5&theme=dark&combine_all_yearly_contributions=true)
+🚀 **Mobile-First Web Developer** | 📱 **Acode + Termux Enthusiast**  
+✨ **Building professional websites directly from Android devices**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ramadhan-dev-bright &icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![Pac-Man](https://raw.githubusercontent.com/monkindey/github-pacman/master/github-pacman.svg)
+## 🛠️ Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+| ![Ramadhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramadhan-dev-bright&show_icons=true&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramadhan-dev-bright&layout=compact&theme=radical&hide_border=true) |
+|:---:|:---:|
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ramadhan-dev-bright&theme=radical&hide_border=true)
+
+---
+
+## 🎯 Featured Projects
+
+### 🌓 [Portfolio Website](https://ramadhan-dev-bright.github.io)
+**Auto Dark/Light Mode • Responsive Design • Mobile-First**
+- Built with pure HTML/CSS/JS
+- System theme detection
+- Interactive skill cards
+
+### 📱 [Mobile Dev Setup]()
+**Acode + Termux Workflow • GitHub Integration**
+- Complete mobile development environment
+- Professional workflow from Android
+
+---
+
+## 🌟 My Journey
+
+> **"From zero to deployed - all coded from my Android device!"**
+
+- 📱 **100% Mobile Development** using Acode + Termux
+- 🚀 **Professional Portfolio** deployed via GitHub Pages  
+- 🎨 **Modern UI/UX** with auto dark/light mode
+- ⚡ **Responsive Design** optimized for all devices
+
+---
+
+## 📫 Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ramadhan-dev-bright.github.io)
+[![Instagram](https://img.shields.io/badge/Instagram-@1my_dan-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/1my_dan)
+[![Email](https://img.shields.io/badge/Email-ramadhanmadhan560@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramadhanmadhan560@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ramadhan--dev--bright-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramadhan-dev-bright)
+
+---
+
+## 🎮 GitHub Games
+
 ![Snake Game](https://github.com/ramadhan-dev-bright/ramadhan-dev-bright/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<div align="center">
+
+### 💫 *"Code anywhere, create everywhere - powered by Android mobile development!"* 💫
+
+⭐ **From my Android device to the world!** 📱🚀
+
+</div>
