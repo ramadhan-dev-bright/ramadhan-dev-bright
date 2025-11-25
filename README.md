@@ -1,65 +1,84 @@
-# 👋 Hello, I'm **Ramadhan**
-Tech enthusiast | Self–taught developer | Always learning 🚀  
+👋 Hello, I'm Ramadhan
 
-Saya suka banget dunia teknologi, coding, dan membangun proyek kecil secara mandiri.  
-Fokus saya sekarang adalah meningkatkan skill dan membuat portofolio yang jelas dan rapi.
-
----
-
-## 🚀 Tech Stack
-**Languages:**  
-- JavaScript  
-- Python  
-- HTML / CSS  
-
-**Tools & Platforms:**  
-- Git & GitHub  
-- GitLab  
-- VS Code  
-- Android
+🚀 Mobile-First Web Developer | 📱 Acode + Termux Enthusiast
+✨ Building professional websites directly from Android devices
 
 ---
 
-## 📊 GitHub Analytics (NO ERROR VERSION)
+🛠️ Tech Stack
 
-### 🔥 GitHub Stats  
-![GitHub Stats](https://github-readme-stats-mu-coral.vercel.app/api?username=ramadhan-dev-bright&show_icons=true&theme=tokyonight)
-
-### 🧠 Most Used Languages  
-![Top Languages](https://github-readme-stats-mu-coral.vercel.app/api/top-langs/?username=ramadhan-dev-bright&layout=compact&theme=tokyonight)
-
-### 🔥 Streak Stats  
-![GitHub Streak](https://streak-stats-gamma.vercel.app?user=ramadhan-dev-bright&theme=tokyonight)
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
 
 ---
 
-## 📂 Featured Projects
-### 🔹 **Portfolio Website**  
-Repository: *coming soon*
+📊 GitHub Summary
 
-### 🔹 **Simple JavaScript Apps**  
-Mini–projects untuk belajar dan eksperimen.
+Metric Progress
+Repositories 6+
+Stars 2+
+Contributions Growing Daily
+Focus Web & Mobile Development
 
----
+🏆 Recent Achievements
 
-## 🌱 Currently Learning
-- Git dan versioning lebih dalam  
-- Frontend (JavaScript & React dasar)  
-- Membiasakan workflow seperti developer beneran
-
----
-
-## 🤝 Connect With Me
-- **GitHub:** @ramadhan-dev-bright  
-- **Instagram:** [@1my_dan](https://instagram.com/1my_dan)  
-- **Email:** [ramadhanmadhan560@gmail.com](mailto:ramadhanmadhan560@gmail.com)
+· ✅ Portfolio Website – Live dengan auto dark/light mode
+· ✅ Mobile Development – Full workflow pakai Acode + Termux
+· ✅ Responsive Design – Optimized untuk semua device
+· ✅ Project Showcase – 6+ repositories aktif
 
 ---
 
-## ✨ About Me  
-Saya belajar teknologi secara otodidak dan sangat suka ngulik.  
-Walaupun latar belakang pendidikan SMA, saya percaya kemampuan berkembang itu dari **rasa penasaran + konsisten**.
+🌟 Featured Projects
 
-> **"Consistency beats talent."**
+🌓 Portfolio Website
 
-Terima kasih sudah mampir di profil saya!
+Website portfolio profesional dengan auto dark/light mode dan desain responsif.
+
+· 🔧 Tech: HTML5, CSS3, JavaScript
+· ✨ Fitur: System theme detection, interactive skill cards, modern UI
+· 📱 Konsep: Dibangun 100% via Android (Acode + Termux)
+
+📱 Mobile Development Workflow
+
+Setup lengkap development environment di Android.
+
+· 🛠 Tools: Acode (code editor) + Termux (terminal)
+· 🔄 Workflow: Coding → Preview → GitHub Deployment
+· 🚀 Hasil: Website profesional langsung dari HP
+
+---
+
+💡 My Coding Journey
+
+"From zero to deployed – semua dikoding dari Android device!"
+
+· 📱 Mobile-First Development – Ngoding pakai Acode + Termux
+· 🚀 Portfolio Live – Website profesional di GitHub Pages
+· 🎨 Modern Features – Auto dark/light mode + responsive design
+· ⚡ Efficient Workflow – Dari HP sampai deploy tanpa laptop
+
+Saya membuktikan bahwa ngoding profesional bisa dari mana saja – yang penting konsisten dan mau eksplor!
+
+---
+
+📫 Let's Connect
+
+https://img.shields.io/badge/Portfolio-Live-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white
+https://img.shields.io/badge/Instagram-@1my_dan-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+https://img.shields.io/badge/Email-ramadhanmadhan560@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/GitHub-ramadhan--dev--bright-181717?style=for-the-badge&logo=github&logoColor=white
+
+---
+
+<div align="center">
+
+💫 "Code anywhere, create everywhere – powered by Android mobile development!" 💫
+
+From my Android device to the world! 📱🚀
+
+</div>
