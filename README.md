@@ -22,3 +22,5 @@ First Web Developer | Acode + Termux Enthusiast<br>Building professional website
 [![](https://visitcount.itsvg.in/api?id=ramadhan-dev-bright &icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Pac-Man](https://raw.githubusercontent.com/monkindey/github-pacman/master/github-pacman.svg)
+![Snake Game](https://github.com/ramadhan-dev-bright/ramadhan-dev-bright/blob/output/github-contribution-grid-snake.svg)
