@@ -35,13 +35,7 @@
 <div align="center">
 
 ![GitHub Streak](https://streak-stats-gamma.vercel.app?user=ramadhan-dev-bright&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramadhan-dev-bright&show_icons=true&theme=tokyonight&hide_title=true)
 
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramadhan-dev-bright&layout=compact&theme=tokyonight&hide_title=true)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ramadhan-dev-bright&theme=tokyonight&no-frame=true&row=2&column=4)
 
 </div>
