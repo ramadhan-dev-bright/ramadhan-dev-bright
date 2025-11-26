@@ -13,6 +13,20 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Acode](https://img.shields.io/badge/Acode-000000?style=for-the-badge&logo=android&logoColor=white)
+![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=linux&logoColor=white)
+
+---
+
+## 💼 Skills & Expertise
+
+| Category | Skills |
+|----------|--------|
+| **Frontend Development** | HTML5, CSS3, JavaScript, Responsive Design |
+| **Tools & Platforms** | Git, GitHub, VS Code, Acode, Termux |
+| **Special Skills** | Mobile-First Development, Auto Dark/Light Mode |
+| **Core Strengths** | Problem Solving, Fast Learning, Adaptability |
 
 ---
 
@@ -27,28 +41,26 @@
 
 ---
 
-## 🔥 Streak Stats (Only)
+## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats-gamma.vercel.app?user=ramadhan-dev-bright&theme=tokyonight)
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🌓 **Portfolio Website**
+### 🌓 **[Portfolio Website](https://ramadhan-dev-bright.github.io)**
 Website portfolio profesional dengan auto dark/light mode dan desain responsif.
 
-- 🔧 Tech: HTML5, CSS3, JavaScript  
-- ✨ Fitur: System theme detection, interactive skill cards  
-- 📱 Dibangun 100% via Android (Acode + Termux)
-
----
+- 🔧 **Tech**: HTML5, CSS3, JavaScript  
+- ✨ **Features**: System theme detection, interactive skill cards  
+- 📱 **Built**: 100% via Android (Acode + Termux)
 
 ### 📱 **Mobile Development Workflow**
 Setup lengkap untuk ngoding dan deploy langsung dari HP.
 
-- 🛠 Tools: Acode + Termux  
-- 🔄 Workflow: Coding → Preview → GitHub Deploy  
-- 🚀 Hasil: Website profesional tanpa laptop
+- 🛠 **Tools**: Acode + Termux  
+- 🔄 **Workflow**: Coding → Preview → GitHub Deploy  
+- 🚀 **Results**: Website profesional tanpa laptop
 
 ---
 
@@ -56,10 +68,10 @@ Setup lengkap untuk ngoding dan deploy langsung dari HP.
 
 > **"From zero to deployed – semua dikoding dari Android device!"**
 
-- 📱 Mobile-first development  
-- 🚀 Portfolio live di GitHub Pages  
-- 🎨 Modern UI dengan auto dark/light mode  
-- ⚡ Workflow efisien langsung dari Android  
+- 📱 **Mobile-first development**  
+- 🚀 **Portfolio live** di GitHub Pages  
+- 🎨 **Modern UI** dengan auto dark/light mode  
+- ⚡ **Workflow efisien** langsung dari Android  
 
 Saya percaya bahwa **konsistensi + rasa penasaran** bisa mengalahkan keterbatasan perangkat.
 
