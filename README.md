@@ -52,7 +52,7 @@
 
 ## 🌟 Featured Projects
 
-### 🌓 **[Portfolio Website](https://ramadhan-dev-bright.github.io)**
+### 🌓 **[Portfolio Website](https://ramadhan-dev-bright.github.io/Portfolio-website-V4/)**
 Website portfolio profesional dengan auto dark/light mode dan desain responsif.
 
 - 🔧 **Tech**: HTML5, CSS3, JavaScript  
@@ -82,7 +82,7 @@ Saya percaya bahwa **konsistensi + rasa penasaran** bisa mengalahkan keterbatasa
 
 ## 📫 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ramadhan-dev-bright.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ramadhan-dev-bright.github.io/Portfolio-website-V4/)
 [![Instagram](https://img.shields.io/badge/Instagram-@1my_dan-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/1my_dan)
 [![Email](https://img.shields.io/badge/Email-ramadhanmadhan560@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramadhanmadhan560@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ramadhan--dev--bright-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramadhan-dev-bright)
