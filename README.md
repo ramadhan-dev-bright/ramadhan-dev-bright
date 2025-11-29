@@ -1,7 +1,6 @@
 # 👋 Hello, I'm Ramadhan
 
-🚀 **Mobile-First Web Developer** | 📱 **Acode + Termux Enthusiast**  
-✨ Building professional websites directly from Android devices
+🚀 **Mobile-First Web Developer** | 📱 **Acode + Termux Enthusiast** ✨ Building professional websites directly from Android devices
 
 ---
 
@@ -24,7 +23,7 @@
 | Category | Skills |
 |----------|--------|
 | **Frontend Development** | HTML5, CSS3, JavaScript, Responsive Design |
-| **Tools & Platforms** | Git, GitHub, VS Code, Acode, Termux |
+| **Tools & Platforms** | Git, GitHub, VS Code, Acode, Termux, **AI Prompt Engineering (Pairing)** |
 | **Special Skills** | Mobile-First Development, Auto Dark/Light Mode |
 | **Core Strengths** | Problem Solving, Fast Learning, Adaptability |
 
@@ -33,8 +32,6 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-![GitHub Streak](https://streak-stats-gamma.vercel.app?user=ramadhan-dev-bright&theme=tokyonight)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ramadhan-dev-bright&theme=tokyonight&no-frame=true&row=2&column=4)
 
@@ -75,8 +72,7 @@ Setup lengkap untuk ngoding dan deploy langsung dari HP.
 
 > **"From zero to deployed – semua dikoding dari Android device!"**
 
-- 📱 **Mobile-first development**  
-- 🚀 **Portfolio live** di GitHub Pages  
+- 📱 **Mobile-first development** - 🚀 **Portfolio live** di GitHub Pages  
 - 🎨 **Modern UI** dengan auto dark/light mode  
 - ⚡ **Workflow efisien** langsung dari Android  
 
@@ -95,7 +91,8 @@ Saya percaya bahwa **konsistensi + rasa penasaran** bisa mengalahkan keterbatasa
 
 <div align="center">
 
-💫 *"Code anywhere, create everywhere – powered by Android mobile development!"* 💫  
+💫 *"Code anywhere, create everywhere – powered by Android mobile development!"*
+ 💫  
 **From my Android device to the world!** 📱🚀  
 
 ✨ **Terima kasih sudah mampir!** ✨
