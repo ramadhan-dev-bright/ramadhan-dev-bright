@@ -10,11 +10,10 @@ Everything I build—from systems logic to open-source contributions—is develo
 
 ### 🛠 Core Expertise
 
-- **Languages:** Rust (Core, `no_std`, `unsafe`), C, JavaScript.
-- **Systems:** TUI Development, Embedded Logic, AGI Architecture Research.
-- **Workflow:** 100% Mobile-First (Termux + Acode + Git).
-- **Current Focus:** Contributing to the **Ratatui** ecosystem and refining **PHANTOMPINNED** (AGI Prototype).
-
+* **Languages:** Rust (Core, `no_std`, `unsafe`), C, JavaScript.
+* **Systems:** TUI Development, Embedded Logic, AGI Architecture Research.
+* **Workflow:** 100% Mobile-First (Termux + Acode + Git).
+* **Current Focus:** Contributing to the **Ratatui** ecosystem and refining **PHANTOMPINNED** (AGI Prototype).
 
 ---
 
@@ -26,9 +25,9 @@ Saya percaya bahwa kemauan untuk belajar jauh lebih penting daripada spesifikasi
 ---
 
 ### 📫 Get in Touch
-- **Instagram:** [@1my__dan](https://instagram.com/1my_dan)
-- **Email:** ramadhanmadhan500@gmail.com
-- **GitHub:** @ramadhan-dev-bright
+* **Instagram:** [@1my__dan](https://instagram.com/1my_dan)
+* **Email:** ramadhanmadhan500@gmail.com
+* **GitHub:** @ramadhan-dev-bright
 
 ---
 *"Code anywhere, create everywhere."* 📱🦀
