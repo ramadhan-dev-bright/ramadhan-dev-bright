@@ -15,17 +15,6 @@ Everything I build—from systems logic to open-source contributions—is develo
 - **Workflow:** 100% Mobile-First (Termux + Acode + Git).
 - **Current Focus:** Contributing to the **Ratatui** ecosystem and refining **PHANTOMPINNED** (AGI Prototype).
 
----
-
-#---
-
-### 📈 GitHub Status
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ramadhan-dev-bright&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramadhan-dev-bright&layout=compact&theme=dark&hide_border=true)
-
----
 
 ---
 
